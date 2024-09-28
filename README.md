@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tejas Ghone</h1>
 <img align="right" width="450" height="400" src="https://img.freepik.com/premium-vector/programmer-character-work-laptop-developing-programming-languages-websites-software-online-studying-distant-education-coding-computing-occupation-cartoon-people-vector-illustration_87771-11363.jpg"/>
 
-- <p>Software Engineer at JPMC </p>
+- <p>Masters in Computer Science at Georgia Tech</p>
+- <p>Former Software Engineer at JP Morgan Chase </p>
 - <p>Former Software Engineer Intern at X80 </p>
 - <p>Former Tech Analyst Intern at JioSaavn </p
 

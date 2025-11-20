@@ -2,6 +2,7 @@
 <img align="right" width="450" height="400" src="https://img.freepik.com/premium-vector/programmer-character-work-laptop-developing-programming-languages-websites-software-online-studying-distant-education-coding-computing-occupation-cartoon-people-vector-illustration_87771-11363.jpg"/>
 
 - <p>Masters in Computer Science at Georgia Tech</p>
+- <p>Former SDE Intern at Amazon </p>
 - <p>Former Software Engineer at JP Morgan Chase </p>
 - <p>Former Software Engineer Intern at X80 </p>
 - <p>Former Tech Analyst Intern at JioSaavn </p
@@ -9,7 +10,7 @@
 
 - 👨‍💻 Want to know more? Check out my [portfolio](https://tejas988.github.io/tejasghone-portfolio/)
 
-- 🌱 I’m currently exploring **Cloud Computing and System Design**
+- 🌱 I’m currently exploring **LLMs and Large Scale Systems**
 
 - 📫 How to reach me **tejasghone11@gmail.com**
 
@@ -41,7 +42,7 @@
 
 <h3 align="center">Github Stats</h3>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas988&theme=tokyonight" alt="adityapatkar_" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas988&theme=tokyonight" /> 
 </p>
 
 <h3 align="center">Top Languages</h3>

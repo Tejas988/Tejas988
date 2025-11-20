@@ -33,7 +33,7 @@
   <a href="https://www.hackerrank.com/profile/tejasghone73" target="blank"><span>Hackerrank</span></a>
 </p>
 
-
+<!--
 <br>
 <h3 align="center">Github Profile Trophy</h3>
 <p align="center" style="width:100%;">
@@ -49,7 +49,7 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas988&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="tejasghone_" />
 </p>
-
+-->
 
 
 
